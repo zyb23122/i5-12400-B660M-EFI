@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec84ee05-9f29-4d06-9274-3f2f7ba5dfde" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EFI/APPLE/UPDATERS/MULTIUPDATER/DpUtil.efi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EFI/APPLE/UPDATERS/MULTIUPDATER/DpUtil.efi.j160ap.im4m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EFI/APPLE/UPDATERS/MULTIUPDATER/MCDP29xxApp_V2.025.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EFI/APPLE/UPDATERS/MULTIUPDATER/MCDP29xxIsp_V1.10.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EFI/APPLE/UPDATERS/MULTIUPDATER/MultiUpdater.efi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EFI/APPLE/UPDATERS/MULTIUPDATER/MultiUpdater.efi.j160ap.im4m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EFI/OC/Kexts/LucyRTL8125Ethernet.kext/Contents/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemInfo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/BOOT/BOOTx64.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/BOOT/BOOTx64.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/EFI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/EFI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/AudioDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/AudioDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/CrScreenshotDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/CrScreenshotDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/OpenCanopy.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/OpenCanopy.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/OpenRuntime.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/OpenRuntime.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/AppleALC.kext/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/AppleALC.kext/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/AppleALC.kext/Contents/MacOS/AppleALC" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/AppleALC.kext/Contents/MacOS/AppleALC" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/BlueToolFixup.kext/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/BlueToolFixup.kext/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/BlueToolFixup.kext/Contents/MacOS/BlueToolFixup" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/BlueToolFixup.kext/Contents/MacOS/BlueToolFixup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/BrcmBluetoothInjector.kext/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/BrcmBluetoothInjector.kext/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/BrcmFirmwareData.kext/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/BrcmFirmwareData.kext/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/BrcmFirmwareData.kext/Contents/MacOS/BrcmFirmwareData" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/BrcmFirmwareData.kext/Contents/MacOS/BrcmFirmwareData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/BrcmPatchRAM3.kext/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/BrcmPatchRAM3.kext/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/BrcmPatchRAM3.kext/Contents/MacOS/BrcmPatchRAM3" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/BrcmPatchRAM3.kext/Contents/MacOS/BrcmPatchRAM3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/CPUFriend.kext/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/CPUFriend.kext/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/CPUFriend.kext/Contents/MacOS/CPUFriend" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/CPUFriend.kext/Contents/MacOS/CPUFriend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/CpuTscSync.kext/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/CpuTscSync.kext/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/CpuTscSync.kext/Contents/MacOS/CpuTscSync" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/CpuTscSync.kext/Contents/MacOS/CpuTscSync" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/IntelBluetoothFirmware.kext/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/IntelBluetoothFirmware.kext/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/IntelBluetoothFirmware.kext/Contents/MacOS/IntelBluetoothFirmware" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/IntelBluetoothFirmware.kext/Contents/MacOS/IntelBluetoothFirmware" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/IntelMausi.kext/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/IntelMausi.kext/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/IntelMausi.kext/Contents/MacOS/IntelMausi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/IntelMausi.kext/Contents/MacOS/IntelMausi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/Lilu.kext/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/Lilu.kext/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/Lilu.kext/Contents/MacOS/Lilu" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/Lilu.kext/Contents/MacOS/Lilu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/LucyRTL8125Ethernet.kext/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/LucyRTL8125Ethernet.kext/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/LucyRTL8125Ethernet.kext/Contents/MacOS/LucyRTL8125Ethernet" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/LucyRTL8125Ethernet.kext/Contents/MacOS/LucyRTL8125Ethernet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/RestrictEvents.kext/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/RestrictEvents.kext/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/RestrictEvents.kext/Contents/MacOS/RestrictEvents" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/RestrictEvents.kext/Contents/MacOS/RestrictEvents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/SMCProcessor.kext/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/SMCProcessor.kext/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/SMCProcessor.kext/Contents/MacOS/SMCProcessor" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/SMCProcessor.kext/Contents/MacOS/SMCProcessor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/SMCSuperIO.kext/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/SMCSuperIO.kext/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/SMCSuperIO.kext/Contents/MacOS/SMCSuperIO" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/SMCSuperIO.kext/Contents/MacOS/SMCSuperIO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/USBInjectAll.kext/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/USBInjectAll.kext/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/USBInjectAll.kext/Contents/MacOS/USBInjectAll" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/USBInjectAll.kext/Contents/MacOS/USBInjectAll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/VirtualSMC.kext/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/VirtualSMC.kext/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/VirtualSMC.kext/Contents/MacOS/VirtualSMC" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/VirtualSMC.kext/Contents/MacOS/VirtualSMC" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/WhateverGreen.kext/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/WhateverGreen.kext/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Kexts/WhateverGreen.kext/Contents/MacOS/WhateverGreen" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Kexts/WhateverGreen.kext/Contents/MacOS/WhateverGreen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/OpenCore.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/OpenCore.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/BootKicker.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/BootKicker.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/ChipTune.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/ChipTune.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/CleanNvram.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/CleanNvram.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/ControlMsrE2.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/ControlMsrE2.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/CsrUtil.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/CsrUtil.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/GopStop.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/GopStop.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/KeyTester.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/KeyTester.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/MmapDump.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/MmapDump.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/OpenControl.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/OpenControl.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/OpenShell.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/OpenShell.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/ResetSystem.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/ResetSystem.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/RtcRw.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/RtcRw.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/TpmInfo.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/TpmInfo.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/config.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/config.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AKxlehgw08LcTTa9U5ZHkTvGO5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec84ee05-9f29-4d06-9274-3f2f7ba5dfde" name="Changes" comment="" />
+      <created>1654772231088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654772231088</updated>
+      <workItem from="1654772232753" duration="683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
